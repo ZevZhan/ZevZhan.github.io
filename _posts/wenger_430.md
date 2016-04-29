@@ -1,19 +1,13 @@
 ---
-    author: Wenger
-    comments: true
-    date: 2016-04-28 17:42:32+00:00
-    layout: post
-    title: PHP, Angular JS Development|My Export Quote|农产品出口工具开发
-    categories:
-    - Works
-    - Tech
-    tags:
-    - bootstrap
-    - wenger
-    - php
-    - AngularJS
+title: "Markdown Extra Components"
+layout: post
+date: 2016-04-24 22:48
+tag:
+- markdown
+- components
+- extra
+blog: true
 ---
-
 
 
 #心得：新手使用github团队协作
