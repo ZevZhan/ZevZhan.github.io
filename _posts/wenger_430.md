@@ -1,3 +1,15 @@
+---
+title: "Markdown Extra Components"
+layout: post
+date: 2016-04-24 22:48
+tag:
+- markdown
+- components
+- extra
+blog: true
+---
+
+
 #心得：新手使用github团队协作
 　其实github这网站很早就久仰大名了，但对于一枚新手，如果要用一系列的git指令来提交自己本地的代码进行团队开发的话，有点手忙脚乱。下面就分享一下我这枚菜鸟近期使用github值得分享的心得
 
