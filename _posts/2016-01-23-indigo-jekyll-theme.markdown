@@ -15,7 +15,7 @@ Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokop
 
 ---
 
-What has inside?haha
+What has inside?hahawo
 
 - Gulp
 - BrowserSync
