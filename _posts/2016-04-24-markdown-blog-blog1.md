@@ -1,14 +1,12 @@
 ---
-author: Wenger
-comments: true
-date: 2016-04-28 17:42:32+00:00
+title: "My Blog"
 layout: post
-title: PHP, Angular JS Development|My Export Quote|农产品出口工具开发
-tags:
-- bootstrap
-- wenger
-- php
-- AngularJS
+date: 2016-05-22 22:44
+tag:
+- markdown
+- elements
+blog: true
+star: true
 ---
 
 
@@ -41,12 +39,4 @@ tags:
     *  《JavaScript高级程序设计》[Zakas, 我感觉本书适合进阶，js知识很详尽全面，看完能形成一个初步的js知识框架，推荐认真读一读]
     *  《锋利的JQuery》[单东林， 这本书对JQuery的介绍非常详细，全面，还有代码演示，可以边看边练，容易上手]
     *  《精通css》[英 Andy Budd, 稍微深入学css的话，推荐这本书]
-* 优秀站点
-    * [慕课网](http://www.imooc.com/)
-    * [w3school](http://www.w3school.com.cn/)
-    * [知乎](http://www.zhihu.com/)
-    * [MDN](https://developer.mozilla.org/zh-CN/docs/Web/Tutorials)
-    * [前端导航](http://caibaojian.com/top)
-    * 
-
 <br/>
